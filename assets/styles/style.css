@@ -1,0 +1,80 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-image: url('/assets/images/Background.png');
+}
+
+.bg-blue {
+    background-color: #3AB3D6;
+}
+
+.logo {
+    font-family: 'Rye', cursive;
+    font-size: 32px;
+}
+
+.text-nav {
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.masuk {
+    margin-top: 3px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.header {
+    background-image: url('/assets/images/index.png');
+    
+}
+
+.header-text{
+    padding-top: 205px;
+}
+
+.header-text1{
+    padding-top: 88px;
+    padding-bottom: 50px;
+}
+
+.text-inter{
+    font-family: Inter;
+    font-style: normal;
+}
+
+.keuntungan-styling{
+    margin-top: 84px;
+    font-size: 25px;
+}
+.font-weight-bolder{
+    font-weight: 800;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.checkout-detail{
+    margin-top: 92px;
+}
+
+.col-md-5{
+    margin-left: 70px;
+}
+
+.galeri{
+    padding-top: 5px;
+    font-style: italic;
+}
+
+.galeri2{
+    padding-top: -100px;
+    font-style: italic;
+}
